@@ -2,6 +2,13 @@ body {
   margin: 0;
 }
 
+.container {
+  border: 1px solid pink;
+  width: 85%;
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
 .clearfix {
   clear: both;
 }
