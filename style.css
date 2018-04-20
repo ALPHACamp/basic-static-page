@@ -47,8 +47,16 @@ body {
 
 #content {
   border: 1px solid red;
+  margin-top: 15px;
 }
 
 .content-box {
   border: 1px solid blue;
+  display: inline-block;
+  width: 30%;
+  margin-left: 15px;
+}
+
+.content-box img {
+  width: 100%;
 }
