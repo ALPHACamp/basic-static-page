@@ -20,11 +20,16 @@ body {
   padding: 0px;
 }
 
+.nav li {
+  display: inline-block;
+}
+
 .nav li a {
   border: 1px solid yellow;
   color: #fff;
   text-decoration: none;
   padding: 10px 12px;
+  display: block;
 }
 
 /* content */
