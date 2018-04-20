@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+.clearfix {
+  clear: both;
+}
+
 /* header */
 
 #header {
@@ -11,10 +15,12 @@ body {
 
 #logo {
   border: 1px solid blue;
+  float: left;
 }
 
 .nav {
   border: 1px solid blue;
+  float: right;
   list-style: none;
   margin: 0px;
   padding: 0px;
