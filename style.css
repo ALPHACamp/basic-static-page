@@ -3,7 +3,6 @@ body {
 }
 
 .container {
-  border: 1px solid pink;
   width: 85%;
   max-width: 1170px;
   margin: 0 auto;
@@ -16,7 +15,6 @@ body {
 /* header */
 
 #header {
-  border: 1px solid red;
   position: fixed;
   top: 0;
   left: 0;
@@ -26,12 +24,10 @@ body {
 }
 
 #logo {
-  border: 1px solid blue;
   float: left;
 }
 
 .nav {
-  border: 1px solid blue;
   float: right;
   list-style: none;
   margin: 0px;
@@ -43,7 +39,6 @@ body {
 }
 
 .nav li a {
-  border: 1px solid yellow;
   color: #fff;
   text-decoration: none;
   padding: 10px 12px;
@@ -64,12 +59,10 @@ body {
 /* content */
 
 #content {
-  border: 1px solid red;
   margin-top: 15px;
 }
 
 .content-box {
-  border: 1px solid blue;
   display: inline-block;
   width: 30%;
   margin-left: 15px;
