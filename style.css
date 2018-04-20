@@ -1,11 +1,11 @@
 /* header */
 
-.header {
+#header {
   border: 1px solid red;
   background-color: #274358;
 }
 
-.logo {
+#logo {
   border: 1px solid blue;
 }
 
@@ -22,7 +22,7 @@
 
 /* content */
 
-.content {
+#content {
   border: 1px solid red;
 }
 
